@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Anton (@aheadweb)
+- 👀 I’m interested in JavaScript and programming in general!
+- 🌱 I'm currently studying time management
+- 📫 How to reach me. @aheadweb - Telegram.
